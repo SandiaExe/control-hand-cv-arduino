@@ -1,6 +1,6 @@
 # 🤖 AI-Powered Bionic Hand Control
 
-Este proyecto permite controlar una mano robótica impresa en 3D mediante gestos en tiempo real. Utiliza visión artificial para detectar la posición de los dedos y traduce esos movimientos en comandos para 5 servomotores controlados por un ESP32.
+Este proyecto permite controlar una mano robótica impresa en 3D mediante gestos en tiempo real. Utiliza visión artificial para detectar la posición de los dedo y traduce esos movimientos en comandos para 5 servomotores controlados por un ESP32.
 
 ![Mano Robotica](image.jpeg)
 
